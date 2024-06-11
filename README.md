@@ -10,8 +10,11 @@ Proyek ini merupakan bagian dari pelatihan di Skill Academy. Tujuannya adalah un
 Proyek ini mencakup pengolahan dan analisis data statistik menggunakan Python. Data yang digunakan berasal dari dataset publik, dan analisis dilakukan untuk mendapatkan wawasan dari data tersebut.
 
 ## Penggunaan Aplikasi
-- Menggunakan aplikasi Google Colab
+- Unduh atau clone repositori ini.
+- Buka notebook proyek di Google Colab.
+- Jalankan setiap sel satu per satu untuk melihat hasil dari analisis data
 
+  
 ## Dataset
 - Dataset yang digunakan dalam pelatihan ini berasal dari pelatihan Skill Academy dan didownload
 - Dataset berbentuk csv
